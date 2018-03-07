@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 06 11:36:18 CST 2018
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1520307378431
+http\://localhost\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.7.2 from/to nexus (http\://localhost\:8081/nexus/content/groups/public/)\: Connect to localhost\:8081 [localhost/127.0.0.1, localhost/0\:0\:0\:0\:0\:0\:0\:1] failed\: Connection refused (Connection refused)
+@default-nexus-http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1520307378255

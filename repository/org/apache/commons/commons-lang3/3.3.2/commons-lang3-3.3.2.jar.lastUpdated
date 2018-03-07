@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 06 11:35:34 CST 2018
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1520307334405
+http\://localhost\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:jar\:3.3.2 from/to nexus (http\://localhost\:8081/nexus/content/groups/public/)\: Connect to localhost\:8081 [localhost/127.0.0.1, localhost/0\:0\:0\:0\:0\:0\:0\:1] failed\: Connection refused (Connection refused)
+@default-nexus-http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1520307333244

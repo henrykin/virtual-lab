@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 06 11:36:20 CST 2018
+junit-4.12.jar>alimaven=
+junit-4.12.pom>alimaven=
+junit-4.12-sources.jar>nexus=
+junit-4.12.jar>central=
+junit-4.12.pom>central=
