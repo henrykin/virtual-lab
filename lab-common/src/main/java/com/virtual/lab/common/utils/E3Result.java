@@ -31,6 +31,14 @@ public class E3Result implements Serializable{
     public static E3Result ok() {
         return new E3Result(null);
     }
+    
+    public static E3Result error() {
+    		return new E3Result(400,"error",null);
+    }
+    
+    public static E3Result error(String msg) {
+    		return new E3Result(400,msg,null);
+    }
 
     public E3Result() {
 
